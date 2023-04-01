@@ -14,7 +14,7 @@ Qatılmaq
 Əgər bu proyektə kömək etmək istəyirsinizsə, fork edin və pull request göndərin. Yaxşı fikirləriniz varsa və ya bu proyektə kömək etmək üçün digər ideyalarınız varsa, bizə bildirin.
 
 Müəllif
-Bu proyekt @sizin-adınız tərəfindən yaradılmışdır. Əlavə məlumat üçün bizimlə əlaqə saxlayın.
+Bu proyekt @EnderCrafter220 tərəfindən yaradılmışdır. Əlavə məlumat üçün bizimlə əlaqə saxlayın.
 
 Lisenziya
 Bu proyekt MIT lisenziyası ilə lisenziyalandırılır. Əlavə məlumat üçün LICENSE faylına baxın.
